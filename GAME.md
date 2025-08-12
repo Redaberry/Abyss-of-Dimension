@@ -1,4 +1,4 @@
-# 어비스 오브 디멘션
+# Abyss of Dimension
 
 ## 해당 모드팩은 Craft to Exile 2를 수정하여 제작된 모드팩인점 참고해주실 바랍니다.
 
